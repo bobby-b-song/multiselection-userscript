@@ -10,6 +10,6 @@ For safari users, install [Userscripts](https://apps.apple.com/cn/app/userscript
 
 ## Verify Installation
 
-To verify Installation, navigate to [multiselection-demo.fla.si](multiselection-demo.fla.si). And check if there's a red bold `MULTI SELECTION ALERT` above the form.
+To verify Installation, navigate to [multiselection-demo.fla.si](https://multiselection-demo.fla.si). And check if there's a red bold `MULTI SELECTION ALERT` above the form.
 
 
