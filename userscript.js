@@ -7,6 +7,7 @@
 // @run-at       document-end
 // @match        http*://localhost:8000/*
 // @match        http*://*.ed.ac.uk/*
+// @match		 http*://*.fla.si/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=undefined.
 // @grant        none
 // ==/UserScript==
