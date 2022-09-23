@@ -24,4 +24,4 @@
         var parent = input_checkboxes[0].parentElement
         parent.parentNode.insertBefore(element, parent)
 	}
-})();:%d
+})();
