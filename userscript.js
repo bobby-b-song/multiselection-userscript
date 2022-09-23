@@ -5,9 +5,9 @@
 // @description  notify you when it's a multiselection question, so you won't lost point when doing online quizzes
 // @author       Boyao SONG
 // @run-at       document-end
-// @match        http*://localhost:8000/*
-// @match        http*://*.ed.ac.uk/*
-// @match		 http*://*.fla.si/*
+// @match        *://localhost:8000/*
+// @match        *://*.ed.ac.uk/*
+// @match		 *://*.fla.si/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=undefined.
 // @grant        none
 // ==/UserScript==
